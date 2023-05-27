@@ -1,0 +1,446 @@
+{"level":"DEBUG","time":"2022-10-05T09:37:10.745+0800","caller":"liaoBa/main.go:33","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-05T09:37:10.772+0800","caller":"mysql/mysql.go:26","msg":"connect DB failed","error":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"DEBUG","time":"2022-10-05T09:41:54.614+0800","caller":"liaoBa/main.go:33","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-05T09:41:54.638+0800","caller":"mysql/mysql.go:24","msg":"connect DB failed","error":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"DEBUG","time":"2022-10-05T09:44:38.008+0800","caller":"liaoBa/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-05T09:47:22.011+0800","caller":"liaoBa/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-05T09:47:22.021+0800","caller":"liaoBa/main.go:78","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-05T09:50:37.967+0800","caller":"liaoBa/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-05T09:54:23.434+0800","caller":"liaoBa/main.go:69","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-05T09:54:23.449+0800","caller":"liaoBa/main.go:78","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-05T22:10:14.652+0800","caller":"liaoBa/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-05T22:11:32.750+0800","caller":"liaoBa/main.go:75","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-05T22:11:32.752+0800","caller":"liaoBa/main.go:84","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-05T22:11:38.520+0800","caller":"liaoBa/main.go:33","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-05T22:22:39.501+0800","caller":"liaoBa/main.go:75","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-05T22:22:39.509+0800","caller":"liaoBa/main.go:84","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-05T22:22:45.575+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-05T22:26:33.793+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-05T22:26:33.806+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T09:33:50.329+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-06T09:35:00.434+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T09:35:00.449+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T09:35:09.095+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-06T09:38:38.097+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T09:38:38.103+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T09:52:35.563+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-06T09:57:43.005+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T09:57:43.007+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T09:58:12.556+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-06T09:59:19.914+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T09:59:19.919+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T09:59:24.951+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2022-10-06T10:00:01.927+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-06T10:00:18.209+0800","caller":"logger/logger.go:72","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0.0007853}
+{"level":"INFO","time":"2022-10-06T10:01:52.035+0800","caller":"logger/logger.go:72","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-06T10:01:56.675+0800","caller":"logger/logger.go:72","msg":"/","status":404,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-06T10:01:59.016+0800","caller":"logger/logger.go:72","msg":"/","status":404,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-06T10:02:05.906+0800","caller":"logger/logger.go:72","msg":"/","status":404,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0.0002736}
+{"level":"INFO","time":"2022-10-06T10:02:10.346+0800","caller":"logger/logger.go:72","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-06T10:02:13.244+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T10:02:13.249+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T10:02:19.109+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-06T10:02:26.779+0800","caller":"logger/logger.go:72","msg":"/version","status":404,"method":"GET","path":"/version","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-06T10:02:30.937+0800","caller":"logger/logger.go:72","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-06T10:02:41.226+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T10:02:41.242+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T17:48:29.574+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-06T17:48:41.047+0800","caller":"logger/logger.go:72","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0.0001311}
+{"level":"INFO","time":"2022-10-06T17:48:41.162+0800","caller":"logger/logger.go:72","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-06T17:48:54.758+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T17:48:54.762+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T18:15:52.447+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-06T18:19:33.963+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T18:19:33.965+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T18:19:39.487+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-06T18:22:52.751+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0001243}
+{"level":"INFO","time":"2022-10-06T18:38:57.598+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T18:38:57.607+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T18:39:12.600+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-06T18:39:23.671+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-06T18:39:29.798+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0008743}
+{"level":"INFO","time":"2022-10-06T18:39:34.432+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0010064}
+{"level":"INFO","time":"2022-10-06T18:40:00.529+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T18:40:00.541+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T18:52:53.558+0800","caller":"liaoBa/main.go:34","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-06T18:53:05.571+0800","caller":"controller/user.go:18","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-10-06T18:53:05.571+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-06T18:53:42.815+0800","caller":"liaoBa/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T18:53:42.826+0800","caller":"liaoBa/main.go:85","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T20:19:54.130+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-06T20:20:24.587+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag\nKey: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-10-06T20:20:24.587+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0009961}
+{"level":"ERROR","time":"2022-10-06T20:21:03.790+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.password' Error:Field validation for 'password' failed on the 'required' tag\nKey: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-10-06T20:21:03.790+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"ERROR","time":"2022-10-06T20:22:47.923+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.password' Error:Field validation for 'password' failed on the 'required' tag\nKey: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-10-06T20:22:47.923+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0001769}
+{"level":"INFO","time":"2022-10-06T20:25:36.219+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T20:25:36.228+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-06T20:26:53.134+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-06T20:27:17.094+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-10-06T20:27:17.094+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0005516}
+{"level":"INFO","time":"2022-10-06T20:33:54.388+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-06T20:33:54.398+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"DEBUG","time":"2022-10-07T09:07:17.815+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-07T09:07:17.855+0800","caller":"mysql/mysql.go:20","msg":"connect DB failed","error":"dial tcp: lookup tcp/#{cfg.Port}: getaddrinfow: The specified class was not found."}
+{"level":"DEBUG","time":"2022-10-07T09:15:48.528+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-07T09:15:48.563+0800","caller":"mysql/mysql.go:20","msg":"connect DB failed","error":"dial tcp: lookup tcp/#{cfg.Port}: getaddrinfow: The specified class was not found."}
+{"level":"DEBUG","time":"2022-10-07T09:17:57.049+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-07T09:17:57.081+0800","caller":"mysql/mysql.go:20","msg":"connect DB failed","error":"dial tcp: lookup tcp/#{cfg.Port}: getaddrinfow: The specified class was not found."}
+{"level":"DEBUG","time":"2022-10-07T09:40:41.276+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-07T09:40:41.316+0800","caller":"mysql/mysql.go:20","msg":"connect DB failed","error":"dial tcp: lookup tcp/#{cfg.Port}: getaddrinfow: The specified class was not found."}
+{"level":"DEBUG","time":"2022-10-07T09:41:34.689+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-07T09:41:46.424+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-10-07T09:41:46.424+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0005323}
+{"level":"INFO","time":"2022-10-07T09:41:50.767+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0174071}
+{"level":"INFO","time":"2022-10-07T09:43:28.134+0800","caller":"logger/logger.go:72","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.008437}
+{"level":"INFO","time":"2022-10-07T09:43:34.534+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-07T09:43:34.544+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T10:06:12.229+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T10:06:12.246+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-08T10:06:30.909+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T10:06:30.917+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T15:57:31.628+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T15:57:31.650+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-08T15:59:54.933+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T15:59:54.933+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.000712}
+{"level":"ERROR","time":"2022-10-08T16:00:10.117+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T16:00:10.117+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0001919}
+{"level":"ERROR","time":"2022-10-08T16:00:58.296+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T16:00:58.296+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0004553}
+{"level":"ERROR","time":"2022-10-08T16:00:59.914+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T16:00:59.914+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0004046}
+{"level":"ERROR","time":"2022-10-08T16:02:43.493+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T16:02:43.494+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0004907}
+{"level":"ERROR","time":"2022-10-08T16:02:51.504+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T16:02:51.504+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"ERROR","time":"2022-10-08T16:03:06.934+0800","caller":"controller/user.go:18","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.password' Error:Field validation for 'password' failed on the 'required' tag\nKey: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-10-08T16:03:06.934+0800","caller":"logger/logger.go:84","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"ERROR","time":"2022-10-08T16:04:38.286+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T16:04:38.286+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-08T16:06:29.423+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:06:29.444+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:06:33.618+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:06:33.643+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-08T16:06:42.582+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T16:06:42.582+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"ERROR","time":"2022-10-08T16:06:44.488+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T16:06:44.488+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"ERROR","time":"2022-10-08T16:09:36.473+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T16:09:36.473+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"ERROR","time":"2022-10-08T16:09:49.496+0800","caller":"controller/user.go:18","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.password' Error:Field validation for 'password' failed on the 'required' tag\nKey: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-10-08T16:09:49.496+0800","caller":"logger/logger.go:84","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.000378}
+{"level":"ERROR","time":"2022-10-08T16:10:00.100+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T16:10:00.101+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0007814}
+{"level":"ERROR","time":"2022-10-08T16:10:58.075+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"EOF"}
+{"level":"INFO","time":"2022-10-08T16:10:58.075+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0005761}
+{"level":"INFO","time":"2022-10-08T16:11:56.727+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:11:56.736+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:12:00.879+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:12:00.902+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-08T16:12:06.684+0800","caller":"controller/user.go:62","msg":"Login with invalid param","error":"Key: 'ParamLogin.password' Error:Field validation for 'password' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-10-08T16:12:06.684+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"ERROR","time":"2022-10-08T16:12:14.034+0800","caller":"controller/user.go:80","msg":"login.login failed","error":"密码错误"}
+{"level":"INFO","time":"2022-10-08T16:12:14.034+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0142705}
+{"level":"ERROR","time":"2022-10-08T16:13:07.865+0800","caller":"controller/user.go:80","msg":"login.login failed","error":"密码错误"}
+{"level":"INFO","time":"2022-10-08T16:13:07.865+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0013974}
+{"level":"INFO","time":"2022-10-08T16:16:13.864+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:16:13.867+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:16:18.651+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:16:18.669+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-08T16:17:11.928+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:17:11.930+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:17:14.872+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:17:14.892+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-08T16:19:25.470+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:19:25.478+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:19:28.221+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:19:28.239+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-08T16:19:34.727+0800","caller":"controller/user.go:18","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.re_password' Error:Field validation for 're_password' failed on the 'required' tag"}
+{"level":"INFO","time":"2022-10-08T16:19:34.727+0800","caller":"logger/logger.go:84","msg":"/signup","status":200,"method":"POST","path":"/signup","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0007954}
+{"level":"INFO","time":"2022-10-08T16:22:04.322+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:22:04.324+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:22:28.707+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:22:28.729+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-08T16:22:39.329+0800","caller":"controller/user.go:79","msg":"login.login failed","error":"密码错误"}
+{"level":"INFO","time":"2022-10-08T16:22:39.329+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0031052}
+{"level":"INFO","time":"2022-10-08T16:22:53.152+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:22:53.156+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:23:49.182+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:23:49.201+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-08T16:23:49.877+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:23:49.897+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-08T16:23:56.195+0800","caller":"controller/user.go:79","msg":"login.login failed","error":"密码错误"}
+{"level":"INFO","time":"2022-10-08T16:23:56.195+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0032282}
+{"level":"INFO","time":"2022-10-08T16:26:19.947+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:26:19.962+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:34:49.731+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:34:49.750+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-08T16:34:57.167+0800","caller":"controller/user.go:79","msg":"login.login failed","error":"用户不存在"}
+{"level":"INFO","time":"2022-10-08T16:34:57.168+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0030856}
+{"level":"ERROR","time":"2022-10-08T16:35:00.023+0800","caller":"controller/user.go:79","msg":"login.login failed","error":"用户不存在"}
+{"level":"INFO","time":"2022-10-08T16:35:00.023+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-08T16:35:50.733+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:35:50.750+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:35:54.162+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:35:54.181+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-08T16:36:03.911+0800","caller":"controller/user.go:79","msg":"login.login failed","error":"用户不存在"}
+{"level":"INFO","time":"2022-10-08T16:36:03.911+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0021346}
+{"level":"ERROR","time":"2022-10-08T16:36:07.206+0800","caller":"controller/user.go:79","msg":"login.login failed","error":"用户不存在"}
+{"level":"INFO","time":"2022-10-08T16:36:07.206+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0010029}
+{"level":"INFO","time":"2022-10-08T16:36:16.553+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:36:16.564+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:36:19.758+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:36:19.778+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-08T16:36:31.215+0800","caller":"controller/user.go:79","msg":"login.login failed","error":"用户不存在"}
+{"level":"INFO","time":"2022-10-08T16:36:31.215+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0023182}
+{"level":"INFO","time":"2022-10-08T16:37:10.058+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:37:10.068+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:37:14.252+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:37:14.269+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-08T16:37:23.846+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0029886}
+{"level":"INFO","time":"2022-10-08T16:39:07.119+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:39:07.134+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-08T16:39:10.685+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-08T16:39:10.706+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-08T16:39:21.507+0800","caller":"controller/user.go:79","msg":"login.login failed","error":"密码错误"}
+{"level":"INFO","time":"2022-10-08T16:39:21.507+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0028846}
+{"level":"INFO","time":"2022-10-08T16:39:38.845+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-08T16:39:38.854+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-09T16:34:23.470+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-09T16:34:23.489+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-09T16:34:39.628+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-09T16:34:39.645+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-09T19:24:07.686+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-09T19:24:07.704+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-09T19:26:21.261+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-09T19:26:21.268+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-10T15:03:58.306+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-10T15:03:58.324+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-10T15:04:11.384+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-10T15:04:11.400+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-10T15:55:17.377+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-10T15:55:17.398+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-10T15:55:23.819+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-10T15:55:23.834+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-10T16:01:48.677+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-10T16:01:48.697+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-10T16:02:23.277+0800","caller":"logger/logger.go:84","msg":"/login","status":200,"method":"POST","path":"/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"ERROR","time":"2022-10-10T16:02:37.234+0800","caller":"controller/user.go:80","msg":"login.login failed","username":"jingzhi","error":"用户名或密码错误"}
+{"level":"INFO","time":"2022-10-10T16:02:37.234+0800","caller":"logger/logger.go:84","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0037008}
+{"level":"INFO","time":"2022-10-10T16:02:46.769+0800","caller":"logger/logger.go:84","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0009873}
+{"level":"INFO","time":"2022-10-10T16:03:28.145+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"POST","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-10T16:04:04.653+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"POST","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-10T16:04:27.051+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"POST","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-10T16:05:44.100+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0020097}
+{"level":"INFO","time":"2022-10-10T16:22:36.181+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-10T16:22:36.184+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-11T08:58:11.562+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-11T08:58:11.582+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-11T08:58:43.606+0800","caller":"logger/logger.go:84","msg":"/api/v1/community/1","status":200,"method":"GET","path":"/api/v1/community/1","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0240302}
+{"level":"INFO","time":"2022-10-11T09:05:34.472+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-11T09:05:34.485+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-11T11:47:55.503+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-11T11:47:55.526+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-11T11:48:02.300+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0058484}
+{"level":"INFO","time":"2022-10-11T11:49:55.733+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-11T11:49:55.735+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-11T15:19:26.222+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-11T15:19:26.241+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-11T15:19:38.583+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-11T15:19:38.606+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-11T15:20:27.732+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-11T15:20:27.753+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-11T15:24:59.747+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-11T15:24:59.766+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-11T15:29:11.058+0800","caller":"logger/logger.go:84","msg":"/api/v1/post/2231714898251776","status":200,"method":"GET","path":"/api/v1/post/2231714898251776","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0019362}
+{"level":"INFO","time":"2022-10-11T15:30:03.246+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-11T15:30:03.256+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-11T16:07:04.812+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-11T16:07:04.830+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-11T16:07:16.638+0800","caller":"logger/logger.go:84","msg":"/api/v1/post/2231714898251776","status":200,"method":"GET","path":"/api/v1/post/2231714898251776","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.005464}
+{"level":"INFO","time":"2022-10-11T16:08:15.286+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-11T16:08:15.299+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-11T16:08:59.453+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-11T16:08:59.473+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-11T16:09:10.916+0800","caller":"logger/logger.go:84","msg":"/api/v1/post/2231714898251776","status":200,"method":"GET","path":"/api/v1/post/2231714898251776","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0027858}
+{"level":"INFO","time":"2022-10-11T16:09:26.691+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-11T16:09:26.693+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-11T17:10:48.314+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-11T17:10:48.335+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-11T17:10:54.529+0800","caller":"logger/logger.go:84","msg":"/api/v1/post/","status":200,"method":"GET","path":"/api/v1/post/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0039925}
+{"level":"INFO","time":"2022-10-11T17:11:10.461+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0032117}
+{"level":"INFO","time":"2022-10-11T17:12:08.887+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0086055}
+{"level":"INFO","time":"2022-10-11T17:12:30.301+0800","caller":"logger/logger.go:84","msg":"/api/v1/post/","status":200,"method":"GET","path":"/api/v1/post/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0018811}
+{"level":"INFO","time":"2022-10-11T17:13:06.788+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-11T17:13:06.799+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-11T17:25:15.936+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-11T17:25:15.956+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-11T17:25:57.690+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0098663}
+{"level":"INFO","time":"2022-10-11T17:26:18.631+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"size=1","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0015076}
+{"level":"INFO","time":"2022-10-11T17:26:23.915+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"size=3","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0025774}
+{"level":"INFO","time":"2022-10-11T17:26:51.818+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"size=1&page=2","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0009931}
+{"level":"INFO","time":"2022-10-11T17:27:25.916+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-11T17:27:25.924+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-13T14:44:24.075+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-13T14:44:24.099+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-13T14:45:42.703+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0064377}
+{"level":"INFO","time":"2022-10-13T14:45:49.994+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"GET","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-13T14:46:07.559+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0176258}
+{"level":"DEBUG","time":"2022-10-13T14:47:27.907+0800","caller":"logic/vote.go:35","msg":"VoteForPost","userID":750406107926528,"postID":"750406107926528","direction":1}
+{"level":"ERROR","time":"2022-10-13T14:47:29.936+0800","caller":"controller/vote.go:40","msg":"logic.VoteForPost() failed","error":"投票时间已过"}
+{"level":"INFO","time":"2022-10-13T14:47:29.936+0800","caller":"logger/logger.go:84","msg":"/api/v1/vote","status":200,"method":"POST","path":"/api/v1/vote","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0302802}
+{"level":"INFO","time":"2022-10-13T14:52:43.347+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-13T14:52:43.363+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-13T14:52:48.086+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-13T14:52:48.103+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-13T14:53:10.399+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0106046}
+{"level":"ERROR","time":"2022-10-13T14:53:18.577+0800","caller":"controller/post.go:30","msg":"logic.CreatePost(p) failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-10-13T14:53:18.585+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0234706}
+{"level":"INFO","time":"2022-10-13T14:56:05.970+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-13T14:56:05.976+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-13T14:56:10.136+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-13T14:56:10.154+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-13T14:56:21.938+0800","caller":"controller/post.go:30","msg":"logic.CreatePost(p) failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-10-13T14:56:21.939+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0526624}
+{"level":"ERROR","time":"2022-10-13T14:56:34.421+0800","caller":"controller/post.go:30","msg":"logic.CreatePost(p) failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-10-13T14:56:34.421+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0322343}
+{"level":"INFO","time":"2022-10-13T14:56:39.313+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-13T14:56:39.320+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-13T14:58:30.325+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-13T14:58:30.345+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-13T14:58:42.281+0800","caller":"controller/post.go:30","msg":"logic.CreatePost(p) failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-10-13T14:58:42.282+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0520034}
+{"level":"ERROR","time":"2022-10-13T14:58:52.216+0800","caller":"controller/post.go:30","msg":"logic.CreatePost(p) failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-10-13T14:58:52.216+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0301765}
+{"level":"INFO","time":"2022-10-13T14:59:02.701+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-13T14:59:02.704+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-13T15:05:33.877+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-13T15:05:33.896+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-13T15:05:43.274+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0093429}
+{"level":"ERROR","time":"2022-10-13T15:06:04.316+0800","caller":"controller/post.go:30","msg":"logic.CreatePost(p) failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-10-13T15:06:04.316+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0503075}
+{"level":"INFO","time":"2022-10-13T15:06:12.766+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0054496}
+{"level":"DEBUG","time":"2022-10-13T15:11:27.772+0800","caller":"logic/vote.go:35","msg":"VoteForPost","userID":750406107926528,"postID":"3006318839336960","direction":1}
+{"level":"ERROR","time":"2022-10-13T15:11:29.814+0800","caller":"controller/vote.go:40","msg":"logic.VoteForPost() failed","error":"投票时间已过"}
+{"level":"INFO","time":"2022-10-13T15:11:29.814+0800","caller":"logger/logger.go:84","msg":"/api/v1/vote","status":200,"method":"POST","path":"/api/v1/vote","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0429592}
+{"level":"INFO","time":"2022-10-13T15:14:59.985+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-13T15:14:59.987+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-13T15:15:04.519+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-13T15:15:04.540+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"DEBUG","time":"2022-10-13T15:15:14.269+0800","caller":"logic/vote.go:35","msg":"VoteForPost","userID":750406107926528,"postID":"3006318839336960","direction":1}
+{"level":"ERROR","time":"2022-10-13T15:15:16.301+0800","caller":"controller/vote.go:40","msg":"logic.VoteForPost() failed","error":"投票时间已过"}
+{"level":"INFO","time":"2022-10-13T15:15:16.301+0800","caller":"logger/logger.go:84","msg":"/api/v1/vote","status":200,"method":"POST","path":"/api/v1/vote","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0323658}
+{"level":"ERROR","time":"2022-10-13T15:15:29.244+0800","caller":"controller/post.go:30","msg":"logic.CreatePost(p) failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-10-13T15:15:29.244+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0258779}
+{"level":"INFO","time":"2022-10-13T15:41:22.058+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-13T15:41:22.065+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-13T16:15:45.647+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-13T16:15:45.669+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-13T16:15:57.539+0800","caller":"controller/post.go:30","msg":"logic.CreatePost(p) failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-10-13T16:15:57.540+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0362541}
+{"level":"INFO","time":"2022-10-13T16:36:34.297+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-13T16:36:34.312+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-13T16:36:37.711+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-13T16:36:37.729+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-13T16:38:24.660+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-13T16:38:24.672+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-13T22:17:28.994+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-13T22:17:29.015+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-13T22:17:43.559+0800","caller":"controller/post.go:30","msg":"logic.CreatePost(p) failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-10-13T22:17:43.562+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0453041}
+{"level":"INFO","time":"2022-10-13T22:18:07.610+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0174695}
+{"level":"INFO","time":"2022-10-13T22:19:29.593+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0051862}
+{"level":"ERROR","time":"2022-10-13T22:19:41.879+0800","caller":"controller/post.go:30","msg":"logic.CreatePost(p) failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-10-13T22:19:41.879+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.044697}
+{"level":"INFO","time":"2022-10-13T22:23:55.825+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-13T22:23:55.839+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-14T08:20:02.846+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T08:20:02.864+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"ERROR","time":"2022-10-14T08:20:23.375+0800","caller":"controller/post.go:30","msg":"logic.CreatePost(p) failed","error":"dial tcp 127.0.0.1:6379: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"INFO","time":"2022-10-14T08:20:23.383+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0568962}
+{"level":"INFO","time":"2022-10-14T08:21:00.512+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0126556}
+{"level":"INFO","time":"2022-10-14T08:25:02.631+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-14T08:25:02.638+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-14T08:25:06.801+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T08:25:06.820+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-14T08:25:28.368+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0039147}
+{"level":"INFO","time":"2022-10-14T08:25:55.350+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0077674}
+{"level":"INFO","time":"2022-10-14T08:26:09.525+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0057701}
+{"level":"INFO","time":"2022-10-14T08:28:33.568+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"size=1&page=1","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0010814}
+{"level":"INFO","time":"2022-10-14T08:28:41.424+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"size=16&page=1","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0082181}
+{"level":"ERROR","time":"2022-10-14T08:29:12.647+0800","caller":"logic/post.go:28","msg":"mysql.GetPostByID(pid) failed","error":"sql: no rows in result set"}
+{"level":"ERROR","time":"2022-10-14T08:29:12.647+0800","caller":"controller/post.go:52","msg":"logic.GetPostByID(pid) failed","error":"sql: no rows in result set"}
+{"level":"INFO","time":"2022-10-14T08:29:12.647+0800","caller":"logger/logger.go:84","msg":"/api/v1/post/2","status":200,"method":"GET","path":"/api/v1/post/2","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.001327}
+{"level":"INFO","time":"2022-10-14T08:29:42.917+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-14T08:29:42.932+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-14T08:31:07.958+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T08:31:07.977+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"DEBUG","time":"2022-10-14T08:31:16.178+0800","caller":"logic/vote.go:35","msg":"VoteForPost","userID":750406107926528,"postID":"3267901213642752","direction":1}
+{"level":"ERROR","time":"2022-10-14T08:31:18.196+0800","caller":"controller/vote.go:40","msg":"logic.VoteForPost() failed","error":"投票时间已过"}
+{"level":"INFO","time":"2022-10-14T08:31:18.196+0800","caller":"logger/logger.go:84","msg":"/api/v1/vote","status":200,"method":"POST","path":"/api/v1/vote","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":2.0191895}
+{"level":"INFO","time":"2022-10-14T08:33:24.084+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-14T08:33:24.089+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-14T08:35:43.080+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T08:35:43.099+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-14T08:39:41.916+0800","caller":"logger/logger.go:84","msg":"/api/v1/post","status":200,"method":"POST","path":"/api/v1/post","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0097374}
+{"level":"INFO","time":"2022-10-14T08:39:51.360+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts","status":200,"method":"POST","path":"/api/v1/posts","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"INFO","time":"2022-10-14T08:39:54.894+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0093323}
+{"level":"INFO","time":"2022-10-14T08:40:06.961+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts&page=2","status":200,"method":"GET","path":"/api/v1/posts&page=2","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0}
+{"level":"DEBUG","time":"2022-10-14T08:43:36.047+0800","caller":"logic/vote.go:35","msg":"VoteForPost","userID":750406107926528,"postID":"3267901213642752","direction":1}
+{"level":"ERROR","time":"2022-10-14T08:43:36.047+0800","caller":"controller/vote.go:40","msg":"logic.VoteForPost() failed","error":"投票时间已过"}
+{"level":"INFO","time":"2022-10-14T08:43:36.047+0800","caller":"logger/logger.go:84","msg":"/api/v1/vote","status":200,"method":"POST","path":"/api/v1/vote","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0007849}
+{"level":"DEBUG","time":"2022-10-14T08:43:57.381+0800","caller":"logic/vote.go:35","msg":"VoteForPost","userID":750406107926528,"postID":"3271481228267520","direction":1}
+{"level":"INFO","time":"2022-10-14T08:43:57.382+0800","caller":"logger/logger.go:84","msg":"/api/v1/vote","status":200,"method":"POST","path":"/api/v1/vote","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0002402}
+{"level":"INFO","time":"2022-10-14T08:54:25.577+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-14T08:54:25.582+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-14T08:54:31.078+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T08:54:31.097+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-14T08:55:02.084+0800","caller":"logger/logger.go:84","msg":"/api/v1/vote","status":200,"method":"POST","path":"/api/v1/vote","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0006836}
+{"level":"DEBUG","time":"2022-10-14T08:55:07.380+0800","caller":"logic/vote.go:35","msg":"VoteForPost","userID":750406107926528,"postID":"3271481228267520","direction":-1}
+{"level":"INFO","time":"2022-10-14T08:55:07.381+0800","caller":"logger/logger.go:84","msg":"/api/v1/vote","status":200,"method":"POST","path":"/api/v1/vote","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0011436}
+{"level":"INFO","time":"2022-10-14T09:27:29.799+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-14T09:27:29.814+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-14T16:20:48.404+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T16:20:48.458+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-14T16:21:42.877+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T16:21:42.895+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-14T16:23:05.663+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts2/","status":200,"method":"GET","path":"/api/v1/posts2/","query":"page=2&size=2&order=score","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0003113}
+{"level":"WARN","time":"2022-10-14T16:23:28.626+0800","caller":"logic/post.go:90","msg":"redis.GetPostList2(p) return 0 data"}
+{"level":"INFO","time":"2022-10-14T16:23:28.626+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts2/","status":200,"method":"GET","path":"/api/v1/posts2/","query":"page=2&size=2&order=score","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0012817}
+{"level":"WARN","time":"2022-10-14T16:24:03.021+0800","caller":"logic/post.go:90","msg":"redis.GetPostList2(p) return 0 data"}
+{"level":"INFO","time":"2022-10-14T16:24:03.021+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts2/","status":200,"method":"GET","path":"/api/v1/posts2/","query":"page=2&size=2&order=time","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0008717}
+{"level":"INFO","time":"2022-10-14T16:24:16.920+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts2/","status":200,"method":"GET","path":"/api/v1/posts2/","query":"page=1&size=2&order=time","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0108675}
+{"level":"INFO","time":"2022-10-14T16:24:29.328+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts2/","status":200,"method":"GET","path":"/api/v1/posts2/","query":"page=1&size=2&order=score","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.29.2","errors":"","cost":0.0019938}
+{"level":"INFO","time":"2022-10-14T17:37:54.771+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-14T17:37:54.787+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-14T18:27:19.418+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T18:27:19.438+0800","caller":"liaoBa/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-14T18:27:29.002+0800","caller":"liaoBa/main.go:81","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-14T18:27:29.005+0800","caller":"liaoBa/main.go:90","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-14T22:08:51.156+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T22:08:51.180+0800","caller":"liaoBa/main.go:46","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-14T22:09:35.435+0800","caller":"liaoBa/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-14T22:09:35.447+0800","caller":"liaoBa/main.go:101","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-14T22:09:39.867+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T22:09:39.886+0800","caller":"liaoBa/main.go:46","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-14T22:10:01.057+0800","caller":"liaoBa/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-14T22:10:01.060+0800","caller":"liaoBa/main.go:101","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-14T22:15:14.469+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T22:15:14.495+0800","caller":"liaoBa/main.go:46","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-14T22:18:06.576+0800","caller":"liaoBa/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-14T22:18:06.585+0800","caller":"liaoBa/main.go:101","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-14T22:18:20.187+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-14T22:18:20.206+0800","caller":"liaoBa/main.go:46","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-14T22:19:43.018+0800","caller":"logger/logger.go:84","msg":"/swagger/index.html","status":200,"method":"GET","path":"/swagger/index.html","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0.0007242}
+{"level":"INFO","time":"2022-10-14T22:19:43.044+0800","caller":"logger/logger.go:84","msg":"/swagger/swagger-ui.css","status":200,"method":"GET","path":"/swagger/swagger-ui.css","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0.0007531}
+{"level":"INFO","time":"2022-10-14T22:19:43.061+0800","caller":"logger/logger.go:84","msg":"/swagger/swagger-ui-standalone-preset.js","status":200,"method":"GET","path":"/swagger/swagger-ui-standalone-preset.js","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0.0003058}
+{"level":"INFO","time":"2022-10-14T22:19:43.063+0800","caller":"logger/logger.go:84","msg":"/swagger/swagger-ui-bundle.js","status":200,"method":"GET","path":"/swagger/swagger-ui-bundle.js","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0.0033074}
+{"level":"INFO","time":"2022-10-14T22:19:43.212+0800","caller":"logger/logger.go:84","msg":"/swagger/doc.json","status":200,"method":"GET","path":"/swagger/doc.json","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0.000475}
+{"level":"INFO","time":"2022-10-14T22:19:43.283+0800","caller":"logger/logger.go:84","msg":"/swagger/favicon-32x32.png","status":200,"method":"GET","path":"/swagger/favicon-32x32.png","query":"","ip":"::1","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","errors":"","cost":0.0004263}
+{"level":"INFO","time":"2022-10-14T22:22:11.592+0800","caller":"liaoBa/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-14T22:22:11.604+0800","caller":"liaoBa/main.go:101","msg":"Server exiting"}
+{"level":"INFO","time":"2022-10-15T10:31:24.951+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2022-10-15T10:31:24.970+0800","caller":"liaoBa/main.go:46","msg":"logger init success..."}
+{"level":"INFO","time":"2022-10-15T10:38:09.311+0800","caller":"liaoBa/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-10-15T10:38:09.325+0800","caller":"liaoBa/main.go:101","msg":"Server exiting"}

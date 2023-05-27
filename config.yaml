@@ -1,0 +1,38 @@
+#app:
+#  name: "liaoBa"
+#  mode: "dev"
+#  port: 8081
+
+name: "liaoBa"
+mode: "dev"
+port: 8081
+version: "v0.1.4"
+start_time: "2022-10-05"
+machine_id: 1
+
+auth:
+  jwt_expire: 8760
+
+log:
+  level: "debug"
+  filename: "liaoBa.log"
+  max_size: 200
+  max_age: 30
+  max_backups: 7
+
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  user: "root"
+  password: "123456"
+  dbname: "liaoBa"
+  max_open_conns: 200
+  max_idle_conns: 50
+
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  password: ""
+  db: 0
+  pool_size: 100
+
