@@ -444,3 +444,53 @@
 {"level":"DEBUG","time":"2022-10-15T10:31:24.970+0800","caller":"liaoBa/main.go:46","msg":"logger init success..."}
 {"level":"INFO","time":"2022-10-15T10:38:09.311+0800","caller":"liaoBa/main.go:92","msg":"Shutdown Server ..."}
 {"level":"INFO","time":"2022-10-15T10:38:09.325+0800","caller":"liaoBa/main.go:101","msg":"Server exiting"}
+{"level":"INFO","time":"2023-08-18T13:07:58.871+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-18T13:07:59.086+0800","caller":"liao-ba/main.go:46","msg":"logger init success..."}
+{"level":"ERROR","time":"2023-08-18T13:07:59.117+0800","caller":"mysql/mysql.go:27","msg":"connect DB failed","error":"Error 1049: Unknown database 'liaoba'"}
+{"level":"INFO","time":"2023-08-18T13:11:22.319+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-18T13:11:22.394+0800","caller":"liao-ba/main.go:46","msg":"logger init success..."}
+{"level":"ERROR","time":"2023-08-18T13:15:27.715+0800","caller":"controller/user.go:48","msg":"logic.SignUp failed","error":"Error 1146: Table 'liao_ba.user' doesn't exist"}
+{"level":"INFO","time":"2023-08-18T13:15:27.715+0800","caller":"logger/logger.go:84","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0082806}
+{"level":"ERROR","time":"2023-08-18T13:16:21.035+0800","caller":"controller/user.go:48","msg":"logic.SignUp failed","error":"Error 1146: Table 'liao_ba.user' doesn't exist"}
+{"level":"INFO","time":"2023-08-18T13:16:21.035+0800","caller":"logger/logger.go:84","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0019363}
+{"level":"INFO","time":"2023-08-18T13:25:03.263+0800","caller":"liao-ba/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-08-18T13:25:03.265+0800","caller":"liao-ba/main.go:101","msg":"Server exiting"}
+{"level":"INFO","time":"2023-08-18T13:25:06.935+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-18T13:25:07.014+0800","caller":"liao-ba/main.go:46","msg":"logger init success..."}
+{"level":"INFO","time":"2023-08-18T13:25:13.040+0800","caller":"liao-ba/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-08-18T13:25:13.043+0800","caller":"liao-ba/main.go:101","msg":"Server exiting"}
+{"level":"INFO","time":"2023-08-18T13:25:16.475+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-18T13:25:16.565+0800","caller":"liao-ba/main.go:46","msg":"logger init success..."}
+{"level":"ERROR","time":"2023-08-18T13:25:20.773+0800","caller":"controller/user.go:48","msg":"logic.SignUp failed","error":"Error 1146: Table 'liao_ba.user' doesn't exist"}
+{"level":"INFO","time":"2023-08-18T13:25:20.774+0800","caller":"logger/logger.go:84","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0048462}
+{"level":"INFO","time":"2023-08-18T13:26:54.523+0800","caller":"liao-ba/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-08-18T13:26:54.529+0800","caller":"liao-ba/main.go:101","msg":"Server exiting"}
+{"level":"INFO","time":"2023-08-18T13:27:39.677+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-18T13:27:39.764+0800","caller":"liao-ba/main.go:46","msg":"logger init success..."}
+{"level":"ERROR","time":"2023-08-18T13:28:15.639+0800","caller":"controller/user.go:48","msg":"logic.SignUp failed","error":"Error 1146: Table 'liao_ba.user' doesn't exist"}
+{"level":"INFO","time":"2023-08-18T13:28:15.639+0800","caller":"logger/logger.go:84","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":11.4061792}
+{"level":"INFO","time":"2023-08-18T13:28:34.060+0800","caller":"liao-ba/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-08-18T13:28:34.075+0800","caller":"liao-ba/main.go:101","msg":"Server exiting"}
+{"level":"INFO","time":"2023-08-18T13:32:57.963+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-18T13:32:58.049+0800","caller":"liao-ba/main.go:46","msg":"logger init success..."}
+{"level":"INFO","time":"2023-08-18T13:33:04.257+0800","caller":"logger/logger.go:84","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.014033}
+{"level":"INFO","time":"2023-08-18T13:35:45.736+0800","caller":"logger/logger.go:84","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0014359}
+{"level":"INFO","time":"2023-08-18T13:36:03.123+0800","caller":"logger/logger.go:84","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0017803}
+{"level":"INFO","time":"2023-08-18T13:38:34.345+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0008846}
+{"level":"INFO","time":"2023-08-18T15:31:08.654+0800","caller":"logger/logger.go:84","msg":"/api/v1/posts/","status":200,"method":"GET","path":"/api/v1/posts/","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.000501}
+{"level":"INFO","time":"2023-08-18T15:38:31.073+0800","caller":"logger/logger.go:84","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0074213}
+{"level":"INFO","time":"2023-08-18T15:38:56.526+0800","caller":"liao-ba/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-08-18T15:38:56.528+0800","caller":"liao-ba/main.go:101","msg":"Server exiting"}
+{"level":"INFO","time":"2023-08-18T15:39:02.039+0800","caller":"logger/logger.go:51","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-08-18T15:39:02.138+0800","caller":"liao-ba/main.go:46","msg":"logger init success..."}
+{"level":"INFO","time":"2023-08-18T15:39:21.349+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0010792}
+{"level":"INFO","time":"2023-08-18T15:39:29.625+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0}
+{"level":"INFO","time":"2023-08-18T15:39:42.998+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0}
+{"level":"INFO","time":"2023-08-18T15:39:51.172+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0}
+{"level":"INFO","time":"2023-08-18T15:40:47.008+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0}
+{"level":"INFO","time":"2023-08-18T15:41:30.461+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0}
+{"level":"INFO","time":"2023-08-18T15:41:57.823+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0010356}
+{"level":"INFO","time":"2023-08-18T15:44:22.645+0800","caller":"logger/logger.go:84","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":0.0047662}
+{"level":"INFO","time":"2023-08-18T15:44:47.105+0800","caller":"logger/logger.go:84","msg":"/api/v1/community","status":200,"method":"GET","path":"/api/v1/community","query":"","ip":"127.0.0.1","user-agent":"Apifox/1.0.0 (https://apifox.com)","errors":"","cost":3.5341705}
+{"level":"INFO","time":"2023-08-18T15:52:42.322+0800","caller":"liao-ba/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-08-18T15:52:42.327+0800","caller":"liao-ba/main.go:101","msg":"Server exiting"}

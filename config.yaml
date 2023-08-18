@@ -2,7 +2,7 @@
 #  name: "liaoBa"
 #  mode: "dev"
 #  port: 8081
-
+app:
 name: "liaoBa"
 mode: "dev"
 port: 8081
@@ -11,7 +11,7 @@ start_time: "2022-10-05"
 machine_id: 1
 
 auth:
-  jwt_expire: 8760
+  jwt_expire: 87600
 
 log:
   level: "debug"
@@ -25,7 +25,7 @@ mysql:
   port: 3306
   user: "root"
   password: "123456"
-  dbname: "liaoBa"
+  dbname: "liao_ba"
   max_open_conns: 200
   max_idle_conns: 50
 
